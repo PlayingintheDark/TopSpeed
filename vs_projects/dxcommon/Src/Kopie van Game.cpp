@@ -1,3 +1,9 @@
+/**
+* DXCommon library
+* Copyright 2003-2013 Playing in the Dark (http://playinginthedark.net)
+* Code contributors: Davy Kager, Davy Loots and Leonard de Ruijter
+* This program is distributed under the terms of the GNU General Public License version 3.
+*/
 #include <DxCommon/If/Game.h>
 #include <Common/If/Algorithm.h>
 
